@@ -1,0 +1,11 @@
+.idea/
+*.log*
+*.pyc
+*.sqlite3
+.DS_Store
+venv/
+.vagrant/
+*.tar.gz
+*.psql
+*.psql.gz
+__pycache__
